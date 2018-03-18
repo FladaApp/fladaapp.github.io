@@ -48,6 +48,6 @@
     },
     "scripts": {
         "test" : "make test",
-  "start": "node ./app/gulpfile.js"
+  "start": "node ./js/creative.js"
 }
 }
