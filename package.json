@@ -47,6 +47,6 @@
         "node": "8.6.0"
     },
     "scripts": {
-        "start": "node creative.js"
+        "start": "node js/creative.js"
     }
 }
