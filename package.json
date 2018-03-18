@@ -47,7 +47,6 @@
         "node": "8.6.0"
     },
     "scripts": {
-        "test" : "make test",
-  "start": "node index.js"
+  "start": "webpack-dev-server --hot"
 }
 }
