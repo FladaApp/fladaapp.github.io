@@ -47,6 +47,6 @@
         "node": "8.6.0"
     },
     "scripts": {
-  "start": "8.6.0"
+  "start": "node 8.6.0"
 }
 }
