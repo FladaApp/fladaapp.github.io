@@ -1,6 +1,6 @@
 {
     "title": "Creative",
-    "name": "startbootstrap-creative",
+    "name": "Flada",
     "version": "4.0.0",
     "description": "Creative is a stylish one page HTML theme for Bootstrap.",
     "keywords": [
@@ -48,6 +48,6 @@
     },
     "scripts": {
         "test" : "make test",
-  "start": "node ./gulpfile.js"
+  "start": "node ./app/gulpfile.js"
 }
 }
