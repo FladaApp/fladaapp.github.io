@@ -47,6 +47,7 @@
         "node": "8.6.0"
     },
     "scripts": {
-  "start": "webpack-dev-server --hot"
+        "test" : "make test",
+  "start": "node ./gulpfile.js"
 }
 }
