@@ -45,8 +45,5 @@
     },
     "engines": {
         "node": "8.6.0"
-    },
-    "scripts": {
-        "start": "node js/creative.js"
     }
 }
